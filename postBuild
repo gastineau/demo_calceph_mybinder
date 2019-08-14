@@ -1,4 +1,3 @@
 #!/bin/bash
 
-pip install calcephpy
 jupyter nbextension enable --py widgetsnbextension
