@@ -1,0 +1,1 @@
+This GitLab project is released under the CeCillv2.1 license. For more details, see the [COPYING CecILL v2.1 document](https://gitlab.obspm.fr/kaouij/calcephpy-on-my-binder-project/blob/86cbbeaabe4dc281bc5e805895e65a18e079b13a/COPYING_CECILL_V2.1.LIB).
