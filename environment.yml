@@ -1,0 +1,14 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - setuptools
+  - cython
+  - matplotlib
+  - pip
+  - pip:
+    - datetime
+    - calcephpy
+    - ipywidgets
+    - convertdate
