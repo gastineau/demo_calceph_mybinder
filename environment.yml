@@ -2,7 +2,7 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - cython==3.0.12
+  - cython
   - numpy
   - setuptools
   - matplotlib
