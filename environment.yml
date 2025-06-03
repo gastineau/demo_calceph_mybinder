@@ -13,3 +13,4 @@ dependencies:
     - calcephpy
     - ipywidgets
     - convertdate
+    - widgetsnbextension
