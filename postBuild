@@ -1,3 +1,4 @@
 #!/bin/bash
 
-jupyter nbextension enable --py widgetsnbextension
+# Installing into classic Jupyter Notebook 5.2 or earlier
+# jupyter nbextension enable --py widgetsnbextension
