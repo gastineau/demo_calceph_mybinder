@@ -6,6 +6,7 @@ dependencies:
   - numpy
   - setuptools
   - matplotlib
+  - jupyter
   - pip
   - pip:
     - datetime
